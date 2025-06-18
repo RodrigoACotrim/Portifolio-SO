@@ -10,6 +10,7 @@ Dentro do portifolio, você encontrará:
 
 -    README.md: Um resumo dos temas abordados e principais tópicos discutidos na aula.
 -    Arquivos diarios com uma descrição da aula frequentada.
+-      Os arquivos estão nomeados relativamente a data da aula na estrutura (mm/dd), pois a organizacão em ordem alfabetica faz com que fiquem mais organizados assim.
 
 # Objetivos do Portfólio
 Este portfólio foi desenvolvido com os seguintes objetivos:
